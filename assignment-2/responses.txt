@@ -1,3 +1,7 @@
-I sure hope this is right when it says "add some text content" 
-Hopefully I'm doing this right! 
-I think I am doing this correctly so far
+1. How is the world wide web different than the internet? The world wide web are the pages you see on your device when you are online. The internet is a network of devives all connected to the world wide web.
+2. Briefly describe how the internet works. Simply the internet moves data from one place to another which is called packet switching which transmists data in seperate bits. 
+3. What is a directory, and what is its relationship to files? A directory is a folder and the files are what goes inside the directory to keep organized.
+4. How will VCS benefit you? It helps teams work on the same tasks at the same time keeping everything organized and saves what you have done without making changes to what other people have been working on and is able to compile all the changes together at the end keeping everything organized in one file.
+5. Take a screenshot anytime while working on your homework.
+6. What is your favorite kind of art? My favvorite kind of art is visual art because I enjoy photography and what all can be created through imagination and a lens.
+7. Rename this scr
