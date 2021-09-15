@@ -1,0 +1,10 @@
+Responses
+
+1. Provide three websites that you enjoy visiting?
+https://muleyfreak.com/ https://www.facebook.com/ https://www.nikonusa.com/
+
+2. What is the relationship between an IP address and the DNS? IP is a number adressed to a device, a DNS is used to convert alaphabetical refrences into a servers IP adress.
+
+3. What is a cookie? Cookies are text files of small pieces of data that are used to identify your device to a computer network.
+
+4. List the three essential parts of a URL. 1. The protocol 2.The domain name 3. The path
