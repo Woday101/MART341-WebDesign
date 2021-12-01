@@ -1,0 +1,5 @@
+Who was your imaginary client? How did they describe their site needs? My imaginary client was Ford Motor Company, they were looking for a website that was easy to navigate and simple in construction. It would have images of all types of different trucks they offer at their dealerships as well as a services department that customers could make appointments on, for things like brakes, batteries, and oil changes.
+
+Why is it important to consider a mobile-first design? It is important to consider a mobile- first design because it will offer your users a better experience all around when you start your design process on the smallest screens first, it will make sure your user will have a good experience on any device they choose.
+
+Free Response: Please discuss your challenges and how you overcame them. My challenges this week were trying ti fill blank space and not make my page look so empty, I tried to center things differently to take up some of that void, making it look a bit more full. 
